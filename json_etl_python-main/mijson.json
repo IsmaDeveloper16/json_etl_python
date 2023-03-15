@@ -1,0 +1,11 @@
+{
+    "nombre": "Ismael",
+    "apellido": "Flores",
+    "dni": "43612324",
+    "prendas": [
+        {
+            "prenda": "buzos",
+            "cantidad": "1"
+        }
+    ]
+}
